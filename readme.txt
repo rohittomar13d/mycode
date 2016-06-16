@@ -1,0 +1,1 @@
+This folder contains different file which used in expt. while modifyiong or deleting themes. Here in this folder some files are web services. The current code running here is index.php,login.php,addthemes.php,addmodifythemes.php.
